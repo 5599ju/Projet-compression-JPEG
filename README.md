@@ -7,9 +7,7 @@ Participation au Prix Fermat de Mathématiques 2025
 
 ## Contenu
 - memoire_JPEG.pdf: mémoire de recherche en mathématiques sur la compression JPEG
-- code_JPEG.ipynb: implémentation Python du processus de compression
+- codeJPEG.ipynb: implémentation Python du processus de compression
 - image_test/: contient 10 images en noir et blanc téléchargées à partir d'Internet, utilisées pour tester et comparer l’effet de la compression selon différents types d’images
-  
-p.s: n'oubliez pas de modifier le chemin du répertoire parent dans le code
 
 
